@@ -1,0 +1,11 @@
+.venv/
+
+__pycache__/
+
+.~lock.simu-frota-mun_T.csv#
+.~lock.simu-carteira-mun_T.csv#
+.~lock.simu-acidentes-mun_T.csv#
+
+simu-frota-mun_T.csv
+simu-carteira-mun_T.csv
+simu-acidentes-mun_T.csv
